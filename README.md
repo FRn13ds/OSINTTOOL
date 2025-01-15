@@ -18,7 +18,7 @@ pip install requests colorama
 
 python main.py
 
-###Kali Linux
+### Kali Linux
 
 bash
 
